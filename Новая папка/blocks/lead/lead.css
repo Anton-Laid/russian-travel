@@ -1,0 +1,27 @@
+.lead {
+    max-width: 984px;
+    margin: 56px auto 0;
+
+}
+
+@media (max-width: 1024px) {
+    .lead {
+        max-width: 928px;
+        margin-top: 48px;
+    }
+}
+
+@media (max-width: 768px) {
+    .lead {
+        max-width: 768px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+@media (width:320px) {
+    .lead {
+        max-width: 320px;
+        margin: 48px auto 0;
+    }
+}

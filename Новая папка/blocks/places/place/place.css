@@ -1,0 +1,35 @@
+.place {
+    max-width: 984px;
+    display: grid;
+    grid-template-areas:
+        "titel webstite"
+        "image text";
+}
+
+@media (max-width: 1024px) {
+    .place {
+        max-width: 928px;
+    }
+}
+
+@media (max-width: 768px) {
+    .place {
+        max-width: 720px;
+    }
+}
+
+@media (max-width: 767px) {
+    .place {
+        max-width: 320px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+
+
+@media (width: 320px) {
+    .place {
+        max-width: 320px;
+    }
+}

@@ -1,0 +1,41 @@
+.places__paragraph {
+    align-self: flex-start;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffff;
+    padding-top: 26px;
+    margin: 0;
+}
+
+.places__paragraph:nth-of-type(2) {
+    margin: 0;
+}
+
+.places__paragraph:nth-of-type(1) {
+    padding-top: 0;
+}
+
+@media (max-width: 1024px) {
+    .places__paragraph {}
+}
+
+
+
+@media (max-width: 768px) {
+    .places__paragraph {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+    }
+}
+
+@media (max-width:320px) {
+    .places__paragraph {
+        padding-top: 25px;
+        white-space: pre-line;
+    }
+}
