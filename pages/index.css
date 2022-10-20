@@ -29,14 +29,13 @@
 
 @import url("../blocks/places/places.css");
 @import url("../blocks/places/place/place.css");
-@import url("../blocks/places/__titel/places__titel.css");
-@import url("../blocks/places/__titel_name/places__titel_name.css");
-@import url("../blocks/places/__webstite/places__webstite.css");
+@import url("../blocks/places/__webstite/place__webstite.css");
 @import url("../blocks/places/__url-heading/places__url-heading.css");
-@import url("../blocks/places/__link/places__link.css");
-@import url("../blocks/places/__image/places__image.css");
+@import url("../blocks/places/__title/place__title.css");
 @import url("../blocks/places/__text/place__text.css");
-@import url("../blocks/places/__paragraph/places__paragraph.css");
+@import url("../blocks/places/__paragraph/place__paragraph.css");
+@import url("../blocks/places/__link/place__link.css");
+@import url("../blocks/places/__image/place__image.css");
 
 @import url("../blocks/cover/cover.css");
 @import url("../blocks/cover/__link/cover__link.css");

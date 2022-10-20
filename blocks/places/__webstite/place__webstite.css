@@ -1,0 +1,32 @@
+.place__webstite {
+    margin: 0;
+    grid-area: webstite;
+    align-self: flex-end;
+    margin-left: 40px;
+}
+
+@media (max-width: 1024px) {
+    .place__webstite {
+        margin-left: 32px;
+    }
+}
+
+@media (max-width: 768px) {
+    .place__webstite {
+        margin-left: 28px;
+    }
+}
+
+@media (max-width: 767px) {
+    .place__webstite {
+        max-width: 320px;
+        margin: 20px 0 0;
+    }
+}
+
+@media (width:320px) {
+    .place__webstite {
+        max-width: 288px;
+        margin: 32px 16px;
+    }
+}
