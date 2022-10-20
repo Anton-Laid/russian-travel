@@ -31,9 +31,9 @@
 3. Вставить интеграцию компании авиабилетов avi...
 
 Ссылка на Github:
-https://github.com/Fra1zed/TREVOR-BLOG
+https://github.com/Fra1zed/Competitions-bikes
 
 Рабочий сайт:
-https://fra1zed.github.io/TREVOR-BLOG/
+https://fra1zed.github.io/Competitions-bikes/
 
  
