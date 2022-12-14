@@ -34,6 +34,6 @@
 https://github.com/Fra1zed/Competitions-bikes
 
 Рабочий сайт:
-https://fra1zed.github.io/Competitions-bikes/
+https://antonliad.github.io/TREVER-Russian/
 
  
